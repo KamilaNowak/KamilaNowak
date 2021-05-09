@@ -1,5 +1,5 @@
 
-![banner](https://imgur.com/a/H8zuJGq "banner")
+![banner](https://i.imgur.com/037cPFx.jpg "banner")
 
 ### About me
 I am 20 years old student of Applied Computer Science on AGH. I build open source projects for fun and to learn new technology stack.
