@@ -10,6 +10,9 @@
   <a href="www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
   </a> 
+     <a href="https://angular.io/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  </a>
      <a href="https://www.css3.pl/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="40" height="40"/> 
   </a> 
@@ -32,7 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" width="40" height="40"/> 
   </a> 
    <a href="https://angular.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
   </a> 
   <a href="https://html.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/> 
@@ -60,6 +63,12 @@
   </a> 
    <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" width="40" height="40"/> 
+  </a> 
+      <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width="40" height="40"/> 
   </a> 
 </p>
 
