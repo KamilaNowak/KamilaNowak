@@ -1,5 +1,5 @@
 
-![banner](https://imgur.com/a/VZvlpqw"")
+![banner](https://imgur.com/a/VZvlpqw"banner")
 
 ![KamilaNowak's github stats](https://github-readme-stats.vercel.app/api?username=kamilanowak&show_icons=true&theme=gradient)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilanowak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
