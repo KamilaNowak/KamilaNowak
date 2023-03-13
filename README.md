@@ -71,7 +71,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width="40" height="40"/> 
   </a> 
 </p>
-
+<a href="https://app.daily.dev/knowak"><img src="https://api.daily.dev/devcards/e9a4b88cc7ff432a8980641978f30b91.png?r=mpy" width="400" alt="Kamila Nowak's Dev Card"/></a>
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-nowak-7b267816b/)](https://www.linkedin.com/in/kamila-nowak-7b267816b/)
