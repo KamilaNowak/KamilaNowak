@@ -1,6 +1,5 @@
 
-![banner](https://i.imgur.com/YdhRD8G.jpg"")
-
+![banner](https://imgur.com/a/ZgwjlmP"")
 <h4> Languages and technologies I worked with </h4>
 
 <p align="left"> 
