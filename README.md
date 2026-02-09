@@ -68,10 +68,5 @@
   </a> 
 </p>
 
-
-### Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-nowak-7b267816b/)](https://www.linkedin.com/in/kamila-nowak-7b267816b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knowak242@gmail.com)](mailto:knowak242@gmail.com)
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KamilaNowak)
 
